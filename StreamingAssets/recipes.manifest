@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 1192156019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8201671dd979ee06e31277ea7cfdb426
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29ca1bbd02d1694bf658cce10bb79cb5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f83d4a40cc57f554585a85878e14bd49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 853de377470048946b253518cdc0c40b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a2366d6ccfa52c43acfadfd98c8bef5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a2e364e9af1af44285645b3e87d14eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ccb4735052404a4992e672ac938d43b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Outline/ListVector3
+- AssemblyName: Assembly-CSharp
+  ClassName: RecipeData/RecipeComponent
+Assets:
+- Assets/ScriptableObjects/Recipes/CampfireRecipe.asset
+- Assets/ScriptableObjects/Recipes/AxeRecipe.asset
+- Assets/ScriptableObjects/Recipes/PickAxeRecipe.asset
+Dependencies: []
